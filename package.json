@@ -1,0 +1,19 @@
+{
+  "name": "rabbit-game",
+  "version": "1.0.0",
+  "description": "game using css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anamarix/rabbit-game.git"
+  },
+  "author": "Anna K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anamarix/rabbit-game/issues"
+  },
+  "homepage": "https://github.com/anamarix/rabbit-game#readme"
+}
