@@ -1,2 +1,2 @@
 # rabbit-game
-This is a simple game made mostly with css
+This is a simple game made with pure css.
